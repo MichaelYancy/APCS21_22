@@ -17,7 +17,7 @@ public class HolyGrail {
         String quest = input.nextLine();
         System.out.print("Question 3: What is your favorite color?");
         String color = input.nextLine();
-        System.out.println("King Arthur says, \"You have to know these things when you\'re a king you know\"");
+        System.out.println("King Arthur says, \"You have to know these things when you\'re a king you know.\"");
         System.out.println("Your name is:" + name);
         System.out.println("Your quest is:" + quest);
         System.out.println("Your favorite color is:" + color);

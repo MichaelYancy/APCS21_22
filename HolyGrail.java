@@ -20,7 +20,7 @@ public class HolyGrail {
         System.out.println("King Arthur says, \"You have to know these things when you\'re a king you know\"");
         System.out.println("Your name is:" + name);
         System.out.println("Your quest is:" + quest);
-        System.out.println("Your favorite colore is:" + color);
+        System.out.println("Your favorite color is:" + color);
         System.out.println("* end of program *");
 
 

@@ -7,6 +7,10 @@
 import java.util.Scanner;
 
 public class HolyGrail {
+    /**
+     * Main entry point for class HolyGrail
+     * @param args main line arguments if needed
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("* A chat with the bridge keeper. * ");

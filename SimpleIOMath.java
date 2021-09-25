@@ -33,7 +33,9 @@ public class SimpleIOMath {
         System.out.println("Question 3: What is your favorite number?");
         favNumber = input.nextInt();
     }
-
+    /**
+    * Asks the user who their favorite person is
+    */
     public void myExtra()   {
         Scanner input = new Scanner(System.in);
         System.out.println("Before we continue, lets ask an important question.");
